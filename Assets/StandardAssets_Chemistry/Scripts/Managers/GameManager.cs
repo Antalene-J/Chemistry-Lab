@@ -7,7 +7,7 @@ public class GameManager : MonoBehaviour {
 
     public static GameManager instance = null;
 
-    public enum Levels {moleculeNaming, moleculeConstruction,lab,menu}
+    public enum Levels {moleculeNaming, moleculeConstruction,lab,flametest,menu}
     public static Levels currentLevel;
 
     public static Molecule chosenMolecule;

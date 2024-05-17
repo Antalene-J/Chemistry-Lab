@@ -18,6 +18,9 @@ TagManager:
   - chloride
   - natrium
   - nitrogen
+  - Hydrogen
+  - cucl2
+  - srcl2
   layers:
   - Default
   - TransparentFX
