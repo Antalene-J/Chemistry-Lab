@@ -107,4 +107,8 @@ public class ObjectInteraction : MonoBehaviour
 
     #endregion
 
+    public void naming()
+    {
+        sceneLoader.LoadScene(sceneToLoad);
+    }
 }

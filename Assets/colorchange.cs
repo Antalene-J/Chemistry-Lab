@@ -7,6 +7,10 @@ public class colorchange : MonoBehaviour
     public GameObject original;
     public GameObject blue;
     public GameObject red;
+    public GameObject blue1;
+    public GameObject red1;
+    public AudioSource blue2;
+    public AudioSource red2;
 
     private void OnTriggerEnter(Collider col)
     {
@@ -14,6 +18,8 @@ public class colorchange : MonoBehaviour
         {
             original.SetActive(false);
             blue.SetActive(true);
+            blue1.SetActive(true);
+            blue2.Play();
             Debug.Log("collided in");
         }
 
@@ -21,6 +27,8 @@ public class colorchange : MonoBehaviour
         {
             original.SetActive(false);
             red.SetActive(true);
+            red1.SetActive(true);
+            red2.Play();
             Debug.Log("collided in 2");
         }
     }
@@ -31,6 +39,7 @@ public class colorchange : MonoBehaviour
         {
             original.SetActive(true);
             blue.SetActive(false);
+            blue1.SetActive(false);
             Debug.Log("collided out");
         }
 
@@ -38,6 +47,7 @@ public class colorchange : MonoBehaviour
         {
             original.SetActive(true);
             red.SetActive(false);
+            red1.SetActive(false);
             Debug.Log("collided out 2");
         }
     }

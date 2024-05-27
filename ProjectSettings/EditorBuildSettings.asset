@@ -18,7 +18,7 @@ EditorBuildSettings:
     path: Assets/Scenes/Login.unity
     guid: dbb8415b1a52ca342b7ed1de564a7417
   - enabled: 1
-    path: Assets/Scenes/Lab.unity
+    path: Assets/Scenes/Lab_1.unity
     guid: efc9148cad4e3404cb61363cc5fec72b
   - enabled: 1
     path: Assets/Scenes/MoleculeNaming.unity
@@ -27,11 +27,14 @@ EditorBuildSettings:
     path: Assets/Scenes/MoleculeConstruction.unity
     guid: 5a731f8f2e5156d4294bf8b5e0c44270
   - enabled: 1
-    path: Assets/Scenes/FlameTest.unity
+    path: Assets/Scenes/Lab_test.unity
     guid: d49c1bebb40bc6c4e9d308e86dd40aff
   - enabled: 1
     path: Assets/Scenes/Lab - 1.unity
     guid: b452e0c5e611f924f9fcc26e53ff4ec7
+  - enabled: 1
+    path: Assets/Scenes/Lab.unity
+    guid: 1c34986ad9b6abc4891e2cf48aa1fdb2
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 5b7359778f5103e49ab25b3a7f4c499c,
       type: 2}

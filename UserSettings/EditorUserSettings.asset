@@ -6,10 +6,37 @@ EditorUserSettings:
   serializedVersion: 4
   m_ConfigSettings:
     RecentlyUsedSceneGuid-0:
-      value: 0105015400050a0e08585d73167a0d44104e1e292f7a7035787a1b35b6e5376f
+      value: 0609075e065350595d0f0e72417a59444e151c782e7173657b7f4c35e1e3356e
       flags: 0
     RecentlyUsedSceneGuid-1:
       value: 07050d0554570c590f5a5c2013755c44134e1c797c7023687b2d1967b2e1323e
+      flags: 0
+    RecentlyUsedSceneGuid-2:
+      value: 0105015400050a0e08585d73167a0d44104e1e292f7a7035787a1b35b6e5376f
+      flags: 0
+    RecentlyUsedSceneGuid-3:
+      value: 0657575f540151580c0a582743770f4415154e7b7f7e75332e7c1b36e1b7663a
+      flags: 0
+    RecentlyUsedSceneGuid-4:
+      value: 515252055d0d59580908087345210c4441164b7f75717269297f4f6ab4b36739
+      flags: 0
+    RecentlyUsedSceneGuid-5:
+      value: 5052560255035d0a5a5c587643260e44104e4d2e782d7e332c2f4562e6b9606c
+      flags: 0
+    RecentlyUsedSceneGuid-6:
+      value: 565003555453515d5f0b597345755b44444e4c282a70246528791e67b6b26368
+      flags: 0
+    RecentlyUsedSceneGuid-7:
+      value: 525207525c0d5f5a09570e7411215c444e4e492f7e2b206475281c62e4e4366a
+      flags: 0
+    UnityEditor.ShaderGraph.Blackboard:
+      value: 18135939215a0a5004000b0e15254b524c030a3f2964643d120d1230e9e93a3fd6e826abbd3c3e302a07a37e0901373ae01e0008f707250d171df81a53a5405d41895ac825e0100ec20313c0d91cddccd3d0c7efcca9bd80908fecb0f9cfddf1eff4e7a1b1eae482f0fdaee1e1928b86d888ed909c968797a7cf
+      flags: 0
+    UnityEditor.ShaderGraph.FloatingWindowsLayout2:
+      value: 181344140043005e1a220d3b1f364b524c0c5a27130c293326201334cee5322ca0bd30e8eb293a707b0fd0180b3d0a36fc0d3d04e649500d1002ee0b5dbd1d2c27c00ad113cb1e10e41f1addc80993b98d9884a69ae6d8f0d1cda9e8fbfefaf9f9dea3fdb9ade882f0f7b0e1e380cafbf2c3adc18e9cd285a2908b82ec879c84808fdc8e8ed0818980dbf8daf7dce5bdd1fbf5c4c1ebcef2c4c7c4e537eafd39303f3fefa1a5ab
+      flags: 0
+    UnityEditor.ShaderGraph.InspectorWindow:
+      value: 18135939215a0a5004000b0e15254b524c1119263f2d6a722016393ce1eb3d36e5d339f9a5602b2e2c07a37e0901373ae01e0008f707250d171df81a53a5475d439548954a98484a99404f97994882af97dbebc2d7f9eec2d1d1b4f3f8dfe8fee6f4b1b9f0fcb297f3f6a7e9f8959e96989cef93998a8bca85e1d8c9bb9188c89bcec78c8ad7889589c1e294e0caf5f3c6eff5cfccfcc1facbc6c5e635e0fe7d7b
       flags: 0
     vcSharedLogLevel:
       value: 0d5e400f0650
